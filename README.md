@@ -1,2 +1,2 @@
 # rtl8821ce-offlineinstaller
-rtl8821ce Offline Installer for linux.
+rtl8821ce Offline Installers for linux.
