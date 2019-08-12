@@ -2,7 +2,7 @@
 rtl8821ce Offline Installers for linux.
 
 # Versions
-Driver1 works on Xubuntu
+Driver1 works on Xubuntu & Debian [UPDATE]
 
 Driver2 does not work on any disto i tried
 
